@@ -1,0 +1,3 @@
+open DEALS folder -> open index.html
+
+search for "link here" and replace it with your link "https://example.com"
